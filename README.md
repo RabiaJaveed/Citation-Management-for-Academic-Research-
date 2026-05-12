@@ -1,190 +1,68 @@
-# Citation-Management-for-Academic-Research-
+<h1 align="center">Citation Management</h1>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Citation Management</title>
+<table>
+<tr>
+<th>No.</th>
+<th>Name</th>
+<th>Description</th>
+<th>Info</th>
+<th>Tools</th>
+</tr>
 
-  <style>
-    body{
-      font-family: Arial, sans-serif;
-      background:#f5f5f5;
-      margin:40px;
-    }
+<tr>
+<td>1.</td>
+<td><b>Zotero</b></td>
+<td>
+Zotero is an application that collects, manages, and cites research sources.
+</td>
+<td align="center">
+<a href="https://www.zotero.org/">📄</a>
+</td>
+<td align="center">
+<a href="https://www.zotero.org/download/">⬇️</a>
+</td>
+</tr>
 
-    h1{
-      font-size:48px;
-      margin-bottom:25px;
-      color:#222;
-    }
+<tr>
+<td>2.</td>
+<td><b>EndNote</b></td>
+<td>
+EndNote is a popular reference management program.
+</td>
+<td align="center">
+<a href="https://endnote.com/">📄</a>
+</td>
+<td align="center">
+<a href="https://endnote.com/downloads/">⬇️</a>
+</td>
+</tr>
 
-    table{
-      width:100%;
-      border-collapse:collapse;
-      background:white;
-      box-shadow:0 4px 10px rgba(0,0,0,0.08);
-    }
+<tr>
+<td>3.</td>
+<td><b>RefWorks</b></td>
+<td>
+RefWorks helps organize references and create bibliographies.
+</td>
+<td align="center">
+<a href="https://www.refworks.com/">📄</a>
+</td>
+<td align="center">
+<a href="https://www.refworks.com/refworks/">⬇️</a>
+</td>
+</tr>
 
-    th{
-      background:#efefef;
-      color:#222;
-      padding:16px;
-      border:1px solid #ccc;
-      font-size:18px;
-      text-align:center;
-    }
+<tr>
+<td>4.</td>
+<td><b>Mendeley</b></td>
+<td>
+Mendeley helps organize research and collaborate online.
+</td>
+<td align="center">
+<a href="https://www.mendeley.com/">📄</a>
+</td>
+<td align="center">
+<a href="https://www.mendeley.com/download-reference-manager/">⬇️</a>
+</td>
+</tr>
 
-    td{
-      border:1px solid #ccc;
-      padding:18px;
-      font-size:16px;
-      vertical-align:top;
-    }
-
-    tr:nth-child(even){
-      background:#fafafa;
-    }
-
-    .number{
-      text-align:center;
-      width:60px;
-      font-weight:bold;
-    }
-
-    .name{
-      width:150px;
-      font-size:20px;
-      font-weight:600;
-    }
-
-    .desc{
-      line-height:1.7;
-      color:#333;
-    }
-
-    .icon{
-      text-align:center;
-      font-size:24px;
-      width:70px;
-    }
-
-    .download{
-      text-align:center;
-      width:70px;
-    }
-
-    .download a{
-      text-decoration:none;
-      font-size:26px;
-    }
-
-    .download a:hover{
-      opacity:0.7;
-    }
-
-    .info-btn{
-      font-size:24px;
-      text-decoration:none;
-    }
-
-  </style>
-</head>
-
-<body>
-
-  <h1>Citation Management</h1>
-
-  <table>
-
-    <tr>
-      <th>No.</th>
-      <th>Name</th>
-      <th>Description</th>
-      <th>Info</th>
-      <th>Tools</th>
-    </tr>
-
-    <tr>
-      <td class="number">1.</td>
-
-      <td class="name">Zotero</td>
-
-      <td class="desc">
-        Zotero (pronounced "zoh-TAIR-oh") is an application that collects,
-        manages, and cites research sources. It's easy to use, connects with
-        your web browser to download sources, and best of all it's free.
-      </td>
-
-      <td class="icon">
-        <a class="info-btn" href="https://www.zotero.org/" target="_blank">📄</a>
-      </td>
-
-      <td class="download">
-        <a href="https://www.zotero.org/download/" target="_blank">⬇️</a>
-      </td>
-    </tr>
-
-    <tr>
-      <td class="number">2.</td>
-
-      <td class="name">EndNote</td>
-
-      <td class="desc">
-        EndNote is a popular reference management program.
-      </td>
-
-      <td class="icon">
-        <a class="info-btn" href="https://endnote.com/" target="_blank">📄</a>
-      </td>
-
-      <td class="download">
-        <a href="https://endnote.com/downloads/" target="_blank">⬇️</a>
-      </td>
-    </tr>
-
-    <tr>
-      <td class="number">3.</td>
-
-      <td class="name">RefWorks</td>
-
-      <td class="desc">
-        RefWorks is an online citation manager that helps you keep track of your
-        references, organize them into a bibliography, and cite them properly
-        according to the citation style that you need (e.g. MLA, APA, or Chicago).
-      </td>
-
-      <td class="icon">
-        <a class="info-btn" href="https://www.refworks.com/" target="_blank">📄</a>
-      </td>
-
-      <td class="download">
-        <a href="https://www.refworks.com/refworks/" target="_blank">⬇️</a>
-      </td>
-    </tr>
-
-    <tr>
-      <td class="number">4.</td>
-
-      <td class="name">Mendeley</td>
-
-      <td class="desc">
-        Mendeley is a reference manager and academic social network that can
-        help you organize your research, collaborate with others online,
-        and discover the latest research.
-      </td>
-
-      <td class="icon">
-        <a class="info-btn" href="https://www.mendeley.com/" target="_blank">📄</a>
-      </td>
-
-      <td class="download">
-        <a href="https://www.mendeley.com/download-reference-manager/" target="_blank">⬇️</a>
-      </td>
-    </tr>
-
-  </table>
-
-</body>
-</html>
+</table>
